@@ -7,8 +7,8 @@ Super Nintendo games on the HiBy R1 and R3 Pro II, as an
 [SDK](https://github.com/Simplyph0/sonix-app-sdk)'s frontend as one static program.
 
 The game fills the top of the screen and an on-screen pad is below it: a D-pad, A B X Y, L and R,
-SELECT and START, and SAVE, LOAD and EXIT keys. SAVE and LOAD keep one save state per game. EXIT
-takes two taps, and a tap on the picture shows or hides an FPS counter. Battery saves are written to
+SELECT and START, and SAVE, LOAD, MENU and EXIT keys. SAVE and LOAD keep one save state per game. MENU
+opens the options (FPS counter, sound on or off, frame skip) and pauses the game. EXIT takes two taps. Battery saves are written to
 `Saves/SNES/<game>.srm` on the card.
 
 ## This repository has no program in it
